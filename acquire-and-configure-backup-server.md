@@ -9,7 +9,6 @@ caps.latest.revision: 20
 ms.assetid: f8b769fe-c864-4d65-abcb-a9a287061702
 ---
 
-
 # Acquire and configure a backup server
 This topic describes how to configure a non-appliance Windows system as a backup server for use with the backup and restore features in Analytics Platform System (APS) and SQL Server Parallel Data Warehouse (PDW).  
   

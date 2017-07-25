@@ -7,7 +7,6 @@ ms.date: "10/20/2016"
 ms.topic: "article"
 caps.latest.revision: 20
 ms.assetid: f8b769fe-c864-4d65-abcb-a9a287061702
-
 ---
 
 # Acquire and configure a backup server

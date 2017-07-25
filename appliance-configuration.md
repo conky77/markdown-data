@@ -19,7 +19,6 @@ Provides checklists for the tasks required to configure Analytics Platform Syste
 ## <a name="BeforeTasks"></a>Before You Begin  
   
 ### Prerequisites  
-  
 1.  The appliance must be installed in the data center and powered on.  
   
 2.  Make sure you have the following information, which is provided by your IHV:  

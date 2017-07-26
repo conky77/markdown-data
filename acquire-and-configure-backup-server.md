@@ -100,7 +100,7 @@ To backup data, use a query client to connect to SQL Server PDW and then submit 
   
 > [!IMPORTANT]  
 > Remember to use the InfiniBand IP address of the backup server. Otherwise, the data will be copied over Ethernet instead of InfiniBand.  
-  
+
 For example:  
   
 ```  
